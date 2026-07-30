@@ -43,7 +43,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [one sec](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441) - Forces a breathing pause before a distracting app opens, so the habit loop breaks instead of the app.
 - [Opal](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230) - Focus sessions that block chosen apps, with a paid tier that makes sessions hard to end early.
 - [ScreenZen](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222) - Adds friction and intention prompts before opening apps, free with no account.
-- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Blocks apps for adults who chose the limit themselves rather than for parents monitoring a child, keeps a streak, and runs fully on-device with no account and no server ([disclosure](https://shantj.github.io/sproutguard/): written by its developer).
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-list) - Blocks apps for adults who chose the limit themselves rather than for parents monitoring a child, keeps a streak, and runs fully on-device with no account and no server ([disclosure](https://shantj.github.io/sproutguard/): written by its developer).
 
 ## Education
 
