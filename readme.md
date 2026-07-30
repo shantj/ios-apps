@@ -38,11 +38,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Digital Wellbeing
 
 - [Apple Screen Time](https://support.apple.com/en-us/HT208982) - Built into iOS. Sets app limits and downtime with no extra install, and is the baseline the apps below try to improve on.
-- [Forest](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515) - Grows a virtual tree while you stay off your phone, and kills it if you leave.
-- [Jomo](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918) - Blocks apps on schedules and routines with detailed usage stats.
-- [one sec](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441) - Forces a breathing pause before a distracting app opens, so the habit loop breaks instead of the app.
-- [Opal](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230) - Focus sessions that block chosen apps, with a paid tier that makes sessions hard to end early.
-- [ScreenZen](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222) - Adds friction and intention prompts before opening apps, free with no account.
+- [Forest](https://apps.apple.com/app/id866450515) - Grows a virtual tree while you stay off your phone, and kills it if you leave.
+- [Jomo](https://apps.apple.com/app/id1609960918) - Blocks apps on schedules and routines with detailed usage stats.
+- [one sec](https://apps.apple.com/app/id1532875441) - Forces a breathing pause before a distracting app opens, so the habit loop breaks instead of the app.
+- [Opal](https://apps.apple.com/app/id1497465230) - Focus sessions that block chosen apps, with a paid tier that makes sessions hard to end early.
+- [ScreenZen](https://apps.apple.com/app/id1541027222) - Adds friction and intention prompts before opening apps, free with no account.
 - [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-linsa) - Blocks apps for adults who chose the limit themselves rather than for parents monitoring a child, keeps a streak, and runs fully on-device with no account and no server ([disclosure](https://shantj.github.io/sproutguard/): written by its developer).
 
 ## Education
